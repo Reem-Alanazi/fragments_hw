@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="nov">Notifications</string>
+    <string name="mail">Mail</string>
+</resources>
